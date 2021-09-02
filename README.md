@@ -5,4 +5,4 @@ The goal is to identify which customers will make a specific transaction in the 
 
 In this project, I analyszed the features of the training data and found that many features were uncorrelated and two groups had different distribution of features. Based on that I did data augmentation and then apply a LightGBM model to train.
 
-Jilin
+Ang Liu and Jilin Wang
